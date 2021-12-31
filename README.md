@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=d6ace6&height=200&section=header&text=Hi!%20I'm%20JiMin!&fontAlign=50&fontAlignY=60&fontSize=60&fontColor=a2a2a2)
 Public🌱 
-![Lejimin's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&show_icons=true&theme=tokyonight)
+             ![Lejimin's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&show_icons=true&theme=tokyonight)
 Private⚡
 ![Lejimin's Private GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&count_private=true&theme=tokyonight)
 
