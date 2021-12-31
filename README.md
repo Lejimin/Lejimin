@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi!%20I'm%20JiMin!&fontAlign=50&fontAlignY=60&fontSize=60&fontColor=000000)
-![Lejimin's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&show_icons=true&theme=nighttowl)
+![Lejimin's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&show_icons=true&theme=tokyonight)
 ![Lejimin's Private GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lejimin&layout=compact&theme=nighttowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lejimin&layout=compact&theme=tokyonight)
 
