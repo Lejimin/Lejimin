@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi!%20I'm%20JiMin!&fontAlign=50&fontAlignY=60&fontSize=60&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d6ace6&height=200&section=header&text=Hi!%20I'm%20JiMin!&fontAlign=50&fontAlignY=60&fontSize=60&fontColor=d6ace6)
 ![Lejimin's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&show_icons=true&theme=tokyonight)
 ![Lejimin's Private GitHub stats](https://github-readme-stats.vercel.app/api?username=Lejimin&count_private=true&theme=tokyonight)
 
